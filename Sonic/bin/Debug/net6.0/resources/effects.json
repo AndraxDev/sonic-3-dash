@@ -1,0 +1,14 @@
+﻿[
+  {
+    "name": "speed+5",
+    "cost": 0
+  },
+  {
+    "name": "jump+10",
+    "cost": 0
+  },
+  {
+    "name": "resistance+1",
+    "cost": 0
+  }
+]

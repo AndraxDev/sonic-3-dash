@@ -1,0 +1,106 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "greenhill.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "greenhill.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2162,
+                "y": 1016
+            }
+        },
+        "greenhill.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "map01.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.34425,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 364.88748372698535,
+                "y": 296.0758787427934
+            }
+        },
+        "map01.tmx#tileset_basic": {
+            "scaleInDock": 1
+        },
+        "map02.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.44808333333333333,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1198.437790589548,
+                "y": 639.3899944206806
+            }
+        },
+        "map02.tmx#tileset_basic": {
+            "scaleInDock": 1
+        },
+        "map03.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1600,
+                "y": 559.090909090909
+            }
+        },
+        "map03.tmx#greenhill": {
+            "scaleInDock": 1
+        },
+        "map03.tmx#tileset1": {
+            "scaleInDock": 1
+        },
+        "tileset.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/Projects/VSProjects/Lab912/Lab912/resources/maps/tilesets",
+    "last.objectTemplatePath": "D:/Projects/VSProjects/Lab912/Lab912/resources/maps",
+    "map.height": 80,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 300,
+    "openFiles": [
+        "tileset.tsx",
+        "map03.tmx",
+        "map02.tmx",
+        "greenhill.tmx"
+    ],
+    "project": "map03.tiled-project",
+    "recentFiles": [
+        "tileset.tsx",
+        "map03.tmx",
+        "map02.tmx",
+        "greenhill.tmx",
+        "map01.tmx",
+        "greenhill.tsx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000"
+}
